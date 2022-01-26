@@ -1,3 +1,5 @@
+# Unmaintained, and not compatible with QBCore (it never has been)
+
 <p align="center"><img src="https://i.imgur.com/Ome5KDF.png"/><br>
 <hr>
 
